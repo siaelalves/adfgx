@@ -1,0 +1,28 @@
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\bin\Debug\ADFGX.exe
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\bin\Debug\ADFGX.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\bin\Debug\ADFGX.xml
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\ADFGX.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\ADFGX.exe
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\ADFGX.xml
+C:\Users\user\AppData\Local\Temporary Projects\ADFGX\obj\x86\Debug\ADFGX.pdb
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\ADFGX.exe
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\ADFGX.xml
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\ADFGX.pdb
+D:\E\Project\Visual Basic\Templates\ADFGX\bin\Debug\ADFGX.exe
+D:\E\Project\Visual Basic\Templates\ADFGX\bin\Debug\ADFGX.pdb
+D:\E\Project\Visual Basic\Templates\ADFGX\bin\Debug\ADFGX.xml
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\ADFGX.Resources.resources
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\E\Project\Visual Basic\Templates\ADFGX\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Ativos\ADFGX\obj\x86\Debug\ADFGX.exe
+D:\Projetos\VB\Ativos\ADFGX\obj\x86\Debug\ADFGX.xml
+D:\Projetos\VB\Ativos\ADFGX\obj\x86\Debug\ADFGX.pdb
+D:\Projetos\VB\Ativos\ADFGX\bin\Debug\ADFGX.exe
+D:\Projetos\VB\Ativos\ADFGX\bin\Debug\ADFGX.pdb
+D:\Projetos\VB\Ativos\ADFGX\bin\Debug\ADFGX.xml
+D:\Projetos\VB\Ativos\ADFGX\obj\x86\Debug\ADFGX.Resources.resources
+D:\Projetos\VB\Ativos\ADFGX\obj\x86\Debug\ADFGX.vbproj.GenerateResource.Cache
